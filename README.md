@@ -5,3 +5,4 @@ Clone repository
 ***
 Run `npm install`
 ***
+Run `node index`
